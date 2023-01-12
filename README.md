@@ -10,11 +10,11 @@ This project uses Python and SQLAlchemy to do basic data exploration and analysi
 
 
 # Part 1: Analyze and Explore the Climate Data
-**Link** [a link] https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/climate_analysis.ipynb
+**Link** [Climate analysis](https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/climate_analysis.ipynb)
 This part of the project analyzes the precipitation and weather station data in Hawaii. Visualizations were produced indicating the precipitation in last year from 2017-08-23 in a chart and a temperature histogram.
 
 # Part 2: Design The Climate App
-**Link** [a link] https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/app.py
+**Link** [App](https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/app.py)
 A Flask API was developedd with the queries from our initial analysis.
 The following routes were created by using Flask.
 
