@@ -21,27 +21,27 @@ A Flask API was developedd with the queries from our initial analysis.
 The following routes were created by using Flask.
 
 **Routes**
--/
+/
    
    - Home Page
    - Lists all routes that are available.
    
--/api/v1.0/precipitation
+/api/v1.0/precipitation
 
    - The inches of precipitation in the last year.
    
--/api/v1.0/stations
+/api/v1.0/stations
 
    - Shows the active weather stations.
    
--/api/v1.0/tobs
+/api/v1.0/tobs
 
    - The daily temperatures for the most active station in the last year.
    
--/api/v1.0/yyyy-mm-dd
+/api/v1.0/yyyy-mm-dd
 
    - Shows the minimum, maximum, and average temperatures for a specific start date.
    
--/api/v1.0/yyyy-mm-dd/yyyy-mm-dd
+/api/v1.0/yyyy-mm-dd/yyyy-mm-dd
 
    - Shows the minimum, maximum, and average temperatures for a specific start to end date.
