@@ -2,12 +2,11 @@
  
  
 # Summary
-This project uses Python and SQLAlchemy to do basic data exploration and analysis of an SQLite climate database. All analysis is done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an API (designed using Flask) for querying this climate data.
+Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. This project uses Python and SQLAlchemy to do basic data exploration and analysis of an SQLite climate database, [Hawaii.sqlite](https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/Resources/hawaii.sqlite). All analysis is done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an API (designed using Flask) for querying this climate data.
 
 # Tools
 * SQLAlchemy, Pandas, Matplotlib
 * Flask API
-
 
 # Part 1: Analyze and Explore the Climate Data
 [Climate analysis](https://github.com/Solarnite/sqlalchemy-challenge/blob/main/SurfsUp/climate_analysis.ipynb)
