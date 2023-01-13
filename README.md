@@ -20,6 +20,7 @@ A Flask API was developedd with the queries from our initial analysis.
 The following routes were created by using Flask.
 
 **Routes**
+
 /
    
    - Home Page
